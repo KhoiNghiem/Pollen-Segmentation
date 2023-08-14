@@ -5,7 +5,7 @@ Using simple image processing algorithms, API provided by OpenCV for automatic p
 
 Here is an example result using the method.
 
-![Example](https://github.com/KhoiNghiem/Pollen-Segmentation/blob/main/Images/Pollen_Segment.jpg)
+<img src="Images/Pollen_Segment.jpg" alt="..." width="450" align="center"/> 
 
 ## Description
 * Pollen partitioning method based on two thresholds of HSV V channel and R channel of RGB.
@@ -27,7 +27,7 @@ Using a simple GUI created by PyQT5 makes it easy to observe image changes
 ```
 $ python GUI.py
 ```
-![GUI](https://github.com/KhoiNghiem/Pollen-Segmentation/blob/main/Images/GUI.png)
+<img src="Images/GUI.png" alt="..." width="500" align="center"/> 
 
 * Choose Image
 * Choose the right threshold
