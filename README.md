@@ -38,3 +38,5 @@ To evaluate the model using **Precision**, **Recall** and **AP** with the input 
 # Change your ground_truth_folder and mask_predict_folder folders
 python evaluate.py
 ```
+
+**If this repo is useful to you, don't hesitate to give me one star**
